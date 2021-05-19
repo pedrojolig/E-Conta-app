@@ -1,0 +1,38 @@
+const dados = `[
+    {
+        "cpf": "123.123.123-09",
+        "nome": "José Pedro Gomes de Lima",
+        "senha": "asdf123",
+        "saldo": 19990.53,
+        "movimentacoes": [
+            {
+                "data": "17/05/2021",
+                "tipo": "crédito",
+                "valor": 200.00
+            },
+            {
+                "data": "18/05/2021",
+                "tipo": "débito",
+                "valor": 300.07
+            }
+        ]
+    },
+    {
+        "cpf": "321.321.321-10",
+        "nome": "Lucas Ribeiro",
+        "senha": "1234",
+        "saldo": 300.47,
+"movimentacoes": [
+    {
+        "data": "18/05/2021",
+        "tipo": "Débito",
+        "valor": 10.12
+            },
+            {
+            "data": "16/05/2021",
+            "tipo": "crédito",
+            "valor": 800.40
+            }
+]
+    }
+]`
