@@ -1,0 +1,7 @@
+Para os clientes do Banco JPG Banking
+que precisam acompanhar seus extratos bancários
+o E-Conta
+é um aplicativo web
+que permite seus usuários obterem informações de saldo e movimentações da conta
+diferentemente das alternativas existentes
+o E-Conta propõe-se a fornecer uma interface focada em acessibilidade

@@ -1,0 +1,18 @@
+Eu como usuário do E-Conta
+Eu quero poder me logar no aplicativo
+de modo que eu consiga acessar as informações da minha conta
+
+
+critérios de aceitação
+
+dado que eu estou na tela de login
+quando eu preencher o formulário com meus dados
+e clicar em efetuar login
+então eu devo ver a tela inicial
+
+
+dado que estou na tela de login
+quando eu preencher o formulário com dados inválidos
+e clicar em efetuar login
+então eu devo ver um aviso de erro
+e devo voltar para tela de login
