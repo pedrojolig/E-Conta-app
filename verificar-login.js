@@ -1,4 +1,4 @@
-function verificarLogin(cliente = null) {
+function verificarLogin() {
     if (cliente != null) {
         carregarTelaPrincipal(cliente);
     } else {
