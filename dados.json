@@ -19,19 +19,19 @@ const dados = `[
     },
     {
         "cpf": "321.321.321-10",
-        "nome": "Lucas Carvalho Ribeiro",
+        "nome": "Patrícia Maria da Graça",
         "senha": "1234",
-        "saldo": "R$300.47",
+        "saldo": "R$31450.47",
         "movimentacoes": [
             {
-                "data": "18/05/2021",
+                "data": "19/05/2021",
                 "tipo": "Débito Em Conta",
-                "valor": "R$10.12"
+                "valor": "R$2138.4"
             },
             {
-                "data": "16/05/2021",
+                "data": "18/05/2021",
                 "tipo": "Crédito Em Conta",
-                "valor": "R$840.45"
+                "valor": "R$2940.75"
             }
         ]
     }
